@@ -1,2 +1,1 @@
-- https://solmazmohadjer.com/
-- https://smohadjer.github.io/solmazmohadjer.com/
+Live at https://uncertainty.solmazmohadjer.com/
