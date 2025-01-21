@@ -16,7 +16,7 @@ jobs:
           npm run build
 
       - name: Deploy 🚀
-        uses: smohadjer/github-pages-deploy-action@4.1.7
+        uses: https://github.com/JamesIves/github-pages-deploy-action@4.7.2
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: dist # The folder the action should deploy.
