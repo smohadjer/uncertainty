@@ -1,1 +1,3 @@
-Live at https://uncertainty.solmazmohadjer.com/
+Live at:
+https://dice-uncertainty.org/
+https://uncertainty.solmazmohadjer.com/
