@@ -1,13 +1,28 @@
 .header {
 	display: flex;
 	justify-content: space-between;
-	align-items: center;
+	align-items: flex-start;
 	padding: 20px 20px 0;
 	margin: 0 auto;
 	max-width: 1280px;
 
+
 	a {
 		text-decoration: none;
+	}
+
+	&_wrapper {
+		@media (max-width: 767px) {
+			max-width: 75%;
+		}
+
+		a {
+			letter-spacing: 0.15em;
+		}
+
+		p {
+			margin: 0;
+		}
 	}
 
 	@media (max-width: 767px) {
